@@ -4,6 +4,8 @@ Welcome to the "Password Creation Game" project! This is a fun and interactive w
 
 ![image](https://github.com/VladyslavMiliev/easy-game-for-dimon/assets/84059723/dedb68be-33d3-46ab-9467-fa23a5c7c1ff)
 
+![image](https://github.com/VladyslavMiliev/easy-game-for-dimon/assets/84059723/db4c3868-3996-4caf-8d4c-989eb45b1a1f)
+
 ## Features
 
 - **Background Music**: Enjoy background music while creating your password.
@@ -41,8 +43,8 @@ Welcome to the "Password Creation Game" project! This is a fun and interactive w
 
 ## Credits
 
-- Background Image: [Blasphemous](https://wall.alphacoders.com/big.php?i=1097565) (Replace with the actual source)
-- Background Music: [Su Beso de Plata (Redux)](https://music.youtube.com/watch?v=CO218kSZoeA&feature=shared) (Replace with the actual source)
+- Background Image: [Blasphemous](https://wall.alphacoders.com/big.php?i=1097565)
+- Background Music: [Su Beso de Plata (Redux)](https://music.youtube.com/watch?v=CO218kSZoeA&feature=shared)
 
 ## License
 
