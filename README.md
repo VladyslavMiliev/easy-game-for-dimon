@@ -2,6 +2,8 @@
 
 Welcome to the "Password Creation Game" project! This is a fun and interactive web application that challenges users to create a secure password while following various hints and rules. The game incorporates a mix of password requirements and creative elements to make the process enjoyable and engaging.
 
+![image](https://github.com/VladyslavMiliev/easy-game-for-dimon/assets/84059723/dedb68be-33d3-46ab-9467-fa23a5c7c1ff)
+
 ## Features
 
 - **Background Music**: Enjoy background music while creating your password.
@@ -39,8 +41,8 @@ Welcome to the "Password Creation Game" project! This is a fun and interactive w
 
 ## Credits
 
-- Background Image: [Unsplash](#) (Replace with the actual source)
-- Background Music: [OnlyMP3](#) (Replace with the actual source)
+- Background Image: [Blasphemous](https://wall.alphacoders.com/big.php?i=1097565) (Replace with the actual source)
+- Background Music: [Su Beso de Plata (Redux)](https://music.youtube.com/watch?v=CO218kSZoeA&feature=shared) (Replace with the actual source)
 
 ## License
 
