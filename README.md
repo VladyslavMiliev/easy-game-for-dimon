@@ -7,12 +7,19 @@ Welcome to the "Password Creation Game" project! This is a fun and interactive w
 ## Features
 
 - **Background Music**: Enjoy background music while creating your password.
+  
   ![image](https://github.com/VladyslavMiliev/easy-game-for-dimon/assets/84059723/38019e23-f293-4ce5-ba13-30e10e6d6175)
+  
 - **Interactive Rules**: Receive interactive rules and hints to guide you through the password creation process.
+  
   ![image](https://github.com/VladyslavMiliev/easy-game-for-dimon/assets/84059723/91fd32e3-3a79-4361-82e3-d5275a630a00)
+  
 - **Visual Feedback**: Get visual feedback, including images and alerts, based on the elements in your password.
+  
   ![image](https://github.com/VladyslavMiliev/easy-game-for-dimon/assets/84059723/47350451-3654-4f97-843e-b93a8d25c601)
+  
 - **Responsive Design**: The game is designed to work seamlessly on different screen sizes, from desktop to mobile.
+  
   ![image](https://github.com/VladyslavMiliev/easy-game-for-dimon/assets/84059723/37018597-8cd9-4410-84f9-beff38bcfaba)
 
 ## How to Play
