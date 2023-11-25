@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="/favicon.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <title>Гра для Дмитрика</title>
+</head>
+
+<body>
+    <div id="wrapper">
+        <h3>Some background music for you❤️</h3>
+        <div id="audio-container">
+            <audio id="audio" controls controlsList="nodownload noplaybackrate" loop
+                src="/onlymp3.to - su_beso_de_plata__redux_-CO218kSZoeA-192k-1700904297.mp3">
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+        <h3>Create Your password</h3>
+        <input type="text" id="password" oninput="updateCharCount(this); validate();" required>
+        <div class="char-counter" id="charCount">0 characters</div>
+        <p id="rule"></p>
+        <div id="image-container"></div>
+    </div>
+    <footer>
+        <p>© 2023 | content-creator: <a href="https://github.com/serhiidankovych" target="_blank"><ion-icon
+                    name="logo-github"></ion-icon></a></p>
+        <p>developer: <a href="https://github.com/VladyslavMiliev" target="_blank"><ion-icon
+                    name="logo-github"></ion-icon></a></p>
+    </footer>
+    <script id="game" src="password.js"></script>
+    <script src="welcome.js"></script>
+</body>
+
+</html>
