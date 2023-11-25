@@ -210,7 +210,7 @@ function showPrizeImage() {
 
   if (!imgContainer.querySelector("img")) {
     const img = document.createElement("img");
-    img.src = "prize.png";
+    img.src = "prize.jpg";
     img.classList.add("prize-image");
 
     imgContainer.appendChild(img);
